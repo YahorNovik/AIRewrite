@@ -32,5 +32,5 @@ AI Grammar Replace rewrites only the text you explicitly select and invoke via a
 This extension is not directed to children under 13 and does not knowingly collect personal information from children.
 
 ## Contact
-Questions or requests? Email **your@email.com**.
+Questions or requests? Email **egornovik2010@gmail.com**.
 
