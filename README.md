@@ -1,6 +1,6 @@
 # Privacy Policy — AI Grammar Replace
 
-_Last updated: YYYY-MM-DD_
+_Last updated: 2025-09-24
 
 **What the extension does**  
 AI Grammar Replace rewrites only the text you explicitly select and invoke via a hotkey or context menu. It replaces the selected text in place on the page.
